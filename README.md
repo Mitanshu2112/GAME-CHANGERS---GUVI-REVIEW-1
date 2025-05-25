@@ -1,3 +1,4 @@
+ATM SYSTEM USING ENCAPSULATION
 
 If you want to run the program on cmd, first paste all the files from main, frame, model and panel into a single folder and the proceed to do the following:
 
@@ -5,7 +6,7 @@ If you want to run the program on cmd, first paste all the files from main, fram
  
  ->Type: java p2 to run the program!
 
-NOTE: On some systems, the application will run with a blue background which should be pink, this may be due to some extension issues.
+On some systems, the application will run with a blue background which should be pink, this may be due to some extension issues.
 The application can also be run on any IDE without any issue and this is our recommended way.
 
 
@@ -29,3 +30,6 @@ The folder directory is described as follows each folder consisting of its own p
 
 On running the application, the login frame will be displayed in which you may register a new customer in order to start interacting with the program.
 The user interface is quite straightforward, but do remember to choose the account as savings or checking in order to deposit or withdraw in order to reduce inconvenience.
+
+
+Credit to the following project for guiding us on how to create our own project: https://github.com/saxena-arpit/ATM-Management-System/tree/master
