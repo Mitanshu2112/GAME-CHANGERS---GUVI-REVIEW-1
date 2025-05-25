@@ -32,4 +32,7 @@ On running the application, the login frame will be displayed in which you may r
 The user interface is quite straightforward, but do remember to choose the account as savings or checking in order to deposit or withdraw in order to reduce inconvenience.
 
 
-Credit to the following project for guiding us on how to create our own project: https://github.com/saxena-arpit/ATM-Management-System/tree/master
+Credits to the following projects for guiding us on how to create our own project: 
+https://codewithcurious.com/projects/atm-simulation-system-using-java/
+https://home.et.utwente.nl/slootenvanf/uidessim/java/
+https://github.com/saxena-arpit/ATM-Management-System/tree/master
